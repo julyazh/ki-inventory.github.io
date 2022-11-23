@@ -1,0 +1,42 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand > .brand-container > .p {
+    margin: 0;
+}
+
+.navbar-brand > .brand-container {
+    width: 80px;
+    margin-right: 12px;
+}
+
+.navbar-brand > .brand-container > .brand {
+    width: 80px;
+}
+
+.navbar-brand > .brand-caption {
+    line-height: 1;
+}
+
+.navbar-brand > .brand-caption > .title {
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.navbar-brand > .brand-caption > .caption {
+    color: grey;
+}
+
+.bg-primary {
+    background-color: #00796b !important;
+}
+
+.bg-secondary {
+    background-color: #ffb300 !important;
+}
+
+.text-primary {
+    color: #00796b !important;
+}
